@@ -1,4 +1,4 @@
-# Horiseon Website...
+# Horiseon Website
 
 ## Welcome to the Horiseon Website
 
