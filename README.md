@@ -11,6 +11,6 @@ You can see the site by clicking the link bellow.
 ### Changes done to Horiseon Website:
 
 
-..* Changed the title on the HTML file from "website" to "Horiseon | Welcome"
-..* Added comments to HTML file and CSS
-..* 
+* Changed the title on the HTML file from "website" to "Horiseon | Welcome"
+* Added comments to HTML file and CSS
+* 
