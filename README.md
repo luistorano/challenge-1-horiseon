@@ -8,6 +8,11 @@ You can see the site by clicking the link bellow:
 [Horiseon](https://luistorano.github.io/challenge-1-horiseon/)
 
 
+![](https://github.com/luistorano/challenge-1-horiseon/blob/main/readme-images/screenshot-1.PNG)
+
+![](https://github.com/luistorano/challenge-1-horiseon/blob/main/readme-images/screenshot-2.PNG)
+
+
 ### Changes done to Horiseon Website:
 
 #### HTML
